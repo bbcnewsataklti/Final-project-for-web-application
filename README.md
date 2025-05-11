@@ -16,7 +16,7 @@ This is a responsive website built using HTML5, CSS3, and JavaScript.
 
 ## Live Site
 
-🔗 https://your-username.github.io/your-repo-name/
+https://github.com/bbcnewsataklti/Final-project-for-web-application.git
 
 ## Deployment
 
